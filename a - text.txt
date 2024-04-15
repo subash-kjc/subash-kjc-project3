@@ -1,0 +1,521 @@
+Last updated: 3/19/2022
+PLEASE COMPLETE THIS SURVEY (https://aka.ms/samplequestions)
+Microsoft is explering the possibility of providing sample questions as an exam preparation reseurce,
+and we would like your feedback. While we prefer that you cemplete the survey after taking the exam,
+you may complete it at any time. Thank You!
+User Guide
+These sample questions are intended to provide an overview of the style, wording, and difficulty of the
+questions that you are likely to experience on this exam. These questions are not the same as what you
+will see en the exam ner is this document illustrative of the length of the exam or its complexity {e.g.,
+you may see additional questien types, multiple case studies, and possibly labs). These questions are
+examples only to provide insight into what to expect on the exam and help you determine if additional
+preparation is required.
+In the first section, you will find the questions without answers so that you can test your knowledge. In
+the second section, the answer, a rationale, and a URL that will link you to additional information is
+provided immediately below each question.
+Contents
+QUESLIONS -==--===mmmmmmmmmmmmmmmeseme sees seeeeee ce seeeeeeeeseeeeeeeeemeeeeeeemeeeeeeemeeeeeemeeeeneeemmeeeneeemeeenneeeeeennn 3
+Question # 1 (Multiple CROICE) ---nn-r=mmmrem mmr 3
+Question # 2 (Sentence COMPIETION) =---r-nmre mmr 3
+Question # 3 (MatCRINg) «---r-nmre meres 3
+Question # 4 (Sentence COMPIETION) =---x-nmre mmr 3
+Question # 5 (MatChiNg) «---s-nnmrem mesmo
+Question # 6 (MUItiple CROICE) --xnnmrmmmrm meron
+Question # 7 (Sentence COMPIETION) =---x-nmremmre meron
+Question # 8 (MUItiple CROICE) --xnnmrmmmrm merece
+Question # 9 (Sentence COMPIETION) =---r-nmre mmr
+Question # 10 (Multiple CROICE) «---r=nnmremmmrem mores
+Question # 11 (Multiple CROICE) «---r=nnmremmmrem mores
+Question # 12 (Multiple CROICE) «---r=nnmremmmrem mores
+Question # 13 (Sentence ComMPlEtioN)---«---x--mr mmr
+Question # 14 (Matching) --=-----==-==-s=mmr meme
+Question # 15 (Sentence ComMPlEtion)---«---x--mr mmrQuestion # 16 (Matching) --=------==-=smsrmmrm meme
+Question # 17 (Sentence ComMPlEtion)---«---«--mr mmr ]
+Question # 18 (Multiple CROICE) «---r=nnmremmmrem mores ]
+Question # 19 {Sentence ComMPlEtioN)---«---x--mr mmr ]
+Question # 20 (Matching) --=-----==-==ms=mmr meme ]
+QUESHIONS ANU ANSWERS === mmm §
+Question # 1 (Multiple CROICE) ---nn-r=mmmrem merece §
+Question # 2 (Sentence COMPIETION) =---r-nmre mmr §
+Question # 3 (MAtChing) --=---rmmrmmem memes §
+Question # 4 (Sentence COMPIETION) =---r-nmre mmr §
+QueSHon # 5 (MAtChing) --=---rmmrmmem memes meee 1)
+Question # 6 (Multiple CROICE) ---nn-r=mmmrem mmr] ]
+Question # 7 (Sentence COMPIEtIoN) =---«---remmremmre oon] ]
+Question # 8 (MUItiple CROICE) ---nn-r=mmmrem mmr] )
+Question # 9 (Sentence COMPIETION) =---r-nmremmre mmr] )
+Question # 10 (Multiple CROICE) «---r=nnmremmmrem moreno] 3
+Question # 11 (Multiple CROICE) «---r=nnmremmmrem moreno] 3
+Question # 12 (Multiple ChOICE) «---rnnmr=mmmrrm merece 14
+Question # 13 {Sentence CoMPIEtIoN)---«---x-nmre mmr 4
+Question # 14 (Matching) --------==-==-s=mmr meme 1
+Question # 15 {Sentence Completion) ---«---«---remmre mmr] 6
+Question # 16 {Sentence COMPIEtion) ------r-mmremmre mms 1 6
+Question # 17 (Sentence Completion) ---«---«--mremmre mmr] 7
+Question # 18 (Multiple ChOICE) «---r=nnmremmmrem morro] 7
+Question # 19 (Sentence ComMPlEtion)---«---x--mre mmr] 8
+Question # 20 (Matching) --=-----==-==ms=mmr meme 18Questions
+Question # 1 {Multiple Choice}
+Which Azure Active Directory {Azure AD) feature is used to provide access to resources based on
+organizational policies?
+A. multi-factor authentication (MFA)
+B. single sign-on (SSO)
+C. administrative units
+D. Conditional Access
+Question # 2 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+Single sign-on {(SSO)is __ methed that enables users to sign in the first time and access various
+applications and resource by using same password.
+A. avalidation
+B. an authentication
+C. a configuration
+D. an authorization
+Question # 3 (Matching)
+Match the services on the left to the correct descriptions on the right.
+Services Descriptions
+A. Pricing calculator 1. Estimates workload costs
+B. TCO calculator 2. Estimates the cost savings by comparing datacenter
+C. Cost management costs to running the same workload on Azure
+3. Helps control, analyze, and optimize workload costs
+Question # 4 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+_____ __isarepeatable set of governance tools that helps development teams quickly build and
+create new environments while adhering to organizational compliance to speed up development and
+deployment.
+A. Azure DevOps
+B. A Continuous Integration/Continuous Deployment (Cl/CD) pipeline configuration
+C. Azure Blueprints
+D. Azure PolicyQuestion #5 (Matching)
+Match the services on the left to the correct descriptions on the right.
+Services Descriptions
+A. Infrastructure as a 1. Provides hosting and management of an application and
+service (laaS) its underlying infrastructure, as well as any
+B. Platform as a service maintenance, upgrades, and security patching
+(PaaS) 2. Provides a fully managed environment for developing,
+C. Software as a service testing, delivering, and managing cloud-based
+(Saas) applications
+3. Provides servers and virtual machines, storage,
+networks, and operating systems en a pay-as-you-go
+basis
+Question # 6 (Multiple Choice)
+Which cloud approach is used by organizations to take full advantage of on-premises technelogy
+investments and allows data and applications to be shared between two environments?
+A. public cloud
+B. private cloud
+C. hybrid cloud
+D. on-premises datacenter
+Question # 7 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+__________ copies data to a secondary region from the primary region across multiple datacenters that
+are located many miles apart.
+A. Premium storage
+B. Zone redundant storage (ZRS)
+C. Geo-redundant storage (GRS)
+D. Locally-redundant storage (LRS)
+Question # 8 {Multiple Choice}
+Which option is used to set the communication between an on-premises VPN device and an Azure VPN
+gateway through an encrypted tunnel over the internet?
+A. ExpressRoute
+B. Point-to-Site (P25) VPN
+C. Site-to-Site VPNQuestion # 9 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+You use _ to organize reseurces in an Azure subscription.
+A. Azure regions
+B. Resource groups
+€. Management groups
+D. Administrative units
+Question # 10 (Multiple Choice)
+Which defense in depth layer uses distributed denial of service (DDoS) protection?
+A. Physical security layer
+B. Perimeter layer
+C. Network layer
+D. Application layer
+Question # 11 (Multiple Choice)
+Which Azure serverless computing technology provides the ability to execute workflows to automate
+business scenarios by using triggers without writing any code?
+A. Azure Functions
+B. Azure Logic Apps
+C. Azure Front Door
+D. Azure DevOps
+Question # 12 (Multiple Choice)
+What can you use to launch the Azure Cloud Shell?
+A. Azure portal
+B. Azure PowerShell
+C. Azure Command Line Interface {CLI}
+D. Azure Resource Manager {ARM) templateQuestion # 13 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+__________ enables you to scale to thousands of virtual machines fer high-performance computing and
+large-scale parallel jobs.
+A. An Azure virtual machine scale set
+B. An availability set
+C. Azure Batch
+D. An availability zone
+Question # 14 (Matching)
+Match the services on the left to the correct descriptions on the right.
+Services Descriptions
+A. Azure Resource Locks 1. Rapidly provisions and runs new environments with the
+B. Azure Blueprints knowledge that they are in line with the organization's
+C. Azure Policy compliance requirements
+____ 2.Enforces standards and assess compliance across your
+organization
+____ 3.Prevents resources from being accidentally deleted or
+changed
+Question # 15 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+____ enables you to provision a group of matching and load-balanced virtual machines in Azure.
+A. Azure Logic Apps
+B. An availability set
+C. An Azure virtual machine scale set
+D. Azure Load Balancer
+Question # 16 (Sentence Completion)
+Select the answer that correctly completes the sentence.
+________in Azure enables you to deploy Azure resources close to the users.
+A. Elasticity
+B. Scalability
+C. Geo-distribution
+D. High availabilityQuestion # 17 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+_____ __issupported by ExpressRoute for connecting an on-premises network to Azure.
+A. APoint-to-Site VPN
+B. A point-to-point Ethernet connection
+C. A Site-to-Site VPN
+D. Azure Peering service
+Question # 18 (Multiple Choice)
+Which Azure feature enables you to organize multiple subscriptions in hierarchies for unified policies
+and compliance?
+A. Resource groups
+B. Management groups
+C. Azure Active Directory {Azure AD}
+D. Azure Container Instances
+Question # 19 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+__ alerts you when service issues occur in an Azure environment, such as a regional Azure
+outage that affects all Azure customers.
+A. Azure Monitor
+B. Azure Advisor
+C. Azure Service Health
+D. Azure Application Insights
+Question # 20 (Matching)
+Match the services on the left to the correct descriptions on the right.
+Services Descriptions
+A. Authorization 1. Confirms the identity of a person who wants access
+B. Authentication 2. Grants the proper access to a legitimate userQuestions and Answers
+Question # 1 {Multiple Choice}
+Which Azure Active Directory {Azure AD) feature is used to provide access to resources based on
+organizational policies?
+A. multi-factor authentication (MFA)
+B. single sign-on (SSO)
+C. administrative units
+D. Conditional Access
+| Answer: | D |
+| Objective: | 2.4 Describe Azure identity, access, and security |
+Rationale: | Conditional Access is the tool used by Azure Active Directory to allow (or deny)
+access to resources based on identity signals. Conditional access is a more refined
+| | MFA (multifactor authentication) method. |
+URL: | https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-
+| | services/4-what-are-mfa-conditional-access |
+Question # 2 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+Single sign-on {(SS0)is____ method that enables users to sign in the first time and access various
+applications and resource by using same password.
+A. avalidation
+B. an authentication
+C. a configuration
+D. an authorization
+| Answer: | B |
+| Objective: | 2.4 Describe Azure identity, access, and security |
+Rationale: | Single sign-on is an authentication method that allows users to sign in using one set
+of credentials to login across applications. Single sign-on makes it easier to manage
+| | passwords and increases security capabilities. |
+URL: | https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-
+| | services/3-what-is-azure-active-directory |Question # 3 (Matching)
+Match the services on the left to the correct descriptions on the right.
+Services Descriptions
+A. Pricing calculator 1. Estimates workload costs
+B. TCO calculator 2. Estimates the cost savings by comparing datacenter
+C. Cost management costs to running the same workload on Azure
+3. Helps control, analyze, and optimize workload costs
+| Answer: | A, B2, C3 |
+| Objective: | 3.1 Describe cost management in Azure |
+Rationale: | Pricing calculator helps you to estimate workload cost.
+TCO Calculator provided approximate cost savings of operating similar workload on
+Azure to on-premises datacenter.
+Azure Cost Management helps to understand Azure bill, manage account.
+| URL: | https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/ |
+Question # 4 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+_____ __isarepeatable set of governance tools that helps development teams quickly build and
+create new environments while adhering to organizational compliance to speed up development and
+deployment.
+A. Azure DevOps
+B. A Continuous Integration/Continuous Deployment (Cl/CD) pipeline configuration
+C. Azure Blueprints
+D. Azure Policy
+| Answer: | Cc |
+| Objective: | 3.2 Describe features and tools in Azure for governance and compliance |
+Rationale: | Sometimes Cloud environment grow beyond just ene subscription, in that case
+Azure Blueprints help to scale the configuration. Azure Blueprints help with
+repeatable tasks so that development teams rapidly build and deploy new
+environments and speed the overall development and deployment phases.
+Blueprints are a declarative way to orchestrate the deployment of various resource
+templates.
+URL: | https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-
+azure/8-govern-subscriptions-azure-blueprintsQuestion #5 (Matching)
+Match the services on the left to the correct descriptions on the right.
+Services Descriptions
+A. Infrastructure as a 1. Provides hosting and management of an application and
+service (laaS) its underlying infrastructure, as well as any
+B. Platform as a service maintenance, upgrades, and security patching
+(PaaS) 2. Provides a fully managed environment for developing,
+C. Software as a service testing, delivering, and managing cloud-based
+(Saas) applications
+3. Provides servers and virtual machines, storage,
+networks, and operating systems en a pay-as-you-go
+basis
+| Answer: | A3, B2, C1 |
+| Objective: | 1.3 Describe cloud service types |
+Rationale: | Infrastructure as a service {1aaS} -Offers necessary compute, storage, and
+networking assets on demand, on a pay-as-you-go basis.
+Platform as a service (PaaS) - Provide complete development and deployment
+environment in the cloud, with assets that enable to deliver simple cloud-based
+apps to cloud-enabled enterprise applications.
+Software as a service (SaaS) -Host and manage the software application and
+underlying infrastructure.
+URL: | https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-
+concepts/categories-of-cloud-servicesQuestion # 6 (Multiple Choice)
+Which cloud approach is used by organizations to take full advantage of on-premises technology
+investments and allows data and applications to be shared between two environments?
+A. public cloud
+B. private cloud
+C. hybrid cloud
+D. on-premises datacenter
+| Answer: | Cc |
+| Objective: | 1.1 Describe cloud computing |
+Rationale: | Public clouds (For example Microsoft Azure) owned and operated by third-party
+cloud service providers, to deliver their computing reseurces such as servers and
+storage over the Internet. Cloud Provider manage all hardware, software, and other
+supporting infrastructure.
+A private cloud refers to cloud computing resources used exclusively by a individual
+business. A private cloud can be physically located on the company’s on-site data
+Centre.
+A Hybrid cloud is a type of cloud computing that combines on-premises
+infrastructure or a private cloud with a public cloud. Hybrid clouds allow data and
+apps to move between the two environments.
+URL: | https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-
+| | concepts/types-of-cloud-computing |
+Question # 7 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+__________ copies data to a secondary region from the primary region across multiple datacenters that
+are located many miles apart.
+A. Premium storage
+B. Zone redundant storage (ZRS)
+C. Geo-redundant storage (GRS)
+D. Locally-redundant storage (LRS)
+| Answer: | Cc |
+| Objective: | 2.3 Describe Azure storage services |
+Rationale: | Geo-redundant storage (GRS) -Replicates your data to a secondary region that is in
+| | different geographic locations from the primary region. |
+URL: | https://docs.microsoft.com/en-us/learn/modules/azure-architecture-
+| | fundamentals/regions-availability-zones |Question # 8 {Multiple Choice}
+Which option is used to set the communication between an on-premises VPN device and an Azure VPN
+gateway through an encrypted tunnel over the internet?
+A. ExpressRoute
+B. Point-to-Site (P25) VPN
+C. Site-to-Site VPN
+| Answer: | Cc |
+| Objective: | 2.2 Describe Azure compute and networking services |
+Rationale: | Site-to-site VPN: Established between on-premises VPN device and an Azure VPN
+Gateway that is deployed in a virtual network. This connection type allow
+communication between any on-premises authorize resource to access a virtual
+network through an encrypted tunnel.
+URL: | https://docs.microsoft.com/en-us/learn/modules/azure-architecture-
+| | fundamentals/regions-availability-zones |
+Question # 9 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+Youuse to organize reseurces in an Azure subscription.
+A. Azure regions
+B. Resource groups
+C. Management groups
+D. Administrative units
+| Answer: | B |
+| Objective: | 2.1 Describe the core architectural components of Azure |
+Rationale: | Azure resources are combined into rescurce groups, which act as logical containers
+into which Azure resources like web apps, databases, and storage accounts are
+| | deployed and managed. |
+URL: | https://docs.microsoft.com/en-us/learn/modules/azure-architecture-
+| | fundamentals/overview |Question # 10 (Multiple Choice)
+Which defense in depth layer uses distributed denial of service (DDoS) protection?
+A. Physical security layer
+B. Perimeter layer
+C. Network layer
+D. Application layer
+| Answer: | B |
+| Objective: | 2.4 Describe Azure identity, access, and security |
+Rationale: | The perimeter layer uses distributed denial of service (DDoS) protection to filter
+| | large-scale attacks before they can cause a denial of service for users. |
+URL: | https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-
+| | azure/2-what-is-defense-in-depth |
+Question # 11 (Multiple Choice)
+Which Azure serverless computing technology provides the ability to execute workflows to automate
+business scenarios by using triggers without writing any code?
+A. Azure Functions
+B. Azure Logic Apps
+C. Azure Front Door
+D. Azure DevOps
+| Answer: | B |
+| Objective: | 2.2 Describe Azure compute and networking services |
+Rationale: | Azure Logic Apps are designed in a web-based designer and can execute logic
+| | triggered by Azure services without writing any code. |
+URL: | https://docs.microsoft.com/en-us/learn/modules/azure-compute-
+| | fundamentals/azure-functions |Question # 12 (Multiple Choice)
+What can you use to launch the Azure Cloud Shell?
+A. Azure portal
+B. Azure PowerShell
+C. Azure Command Line Interface {CLI}
+D. Azure Resource Manager (ARM) template
+| Answer: | A |
+| Objective: | 3.3 Describe features and tools for managing and deploying Azure resources |
+Rationale: | Azure Cloud Shell is an interactive, authenticated, browser-accessible shell for
+managing Azure resources. It provides the flexibility of choosing the shell experience
+that best suits the way you work, either Bash or PowerShell.
+Azure You can access the Cloud Shell in three ways:
+« Direct link: Open a browser to https://shell.azure.com.
+«Azure portal: Select the Cloud Shell icon en the Azure portal
+« Code snippets: On docs.microsoft.com and Microsoft Learn, select the Try It
+button
+| URL: | https://docs.microsoft.com/en-us/azure/cloud-shell/overview |
+Question # 13 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+__________ enables you to scale to thousands of virtual machines fer high-performance computing and
+large-scale parallel jobs.
+A. An Azure virtual machine scale set
+B. An availability set
+C. Azure Batch
+D. An availability zone
+| Answer: | Cc |
+| Objective: | 2.2 Describe Azure compute and networking services |
+Rationale: | Azure Batch allows you to scale to thousands of virtual machines for high-
+performance computing (HPC) and large-scale parallel jobs. Other Azure
+functionalities allow you to scale multiple VMs, but only Azure Batch will allow for
+thousands of VMs for HPC.
+URL: | https://docs.microsoft.com/en-us/learn/modules/azure-compute-
+| | fundamentals/azure-virtual-machines |Question # 14 (Matching)
+Match the services on the left to the correct descriptions on the right.
+Services Descriptions
+A. Azure Resource Locks 1. Rapidly provisions and runs new environments with the
+B. Azure Blueprints knowledge that they are in line with the organization's
+C. Azure Policy compliance requirements
+2. Enforces standards and assess compliance across your
+organization
+3. Prevents reseurces from being accidentally deleted or
+changed
+| Answer: | A3, B1, C2 |
+| Objective: | 3.2 Describe features and tools in Azure for governance and compliance |
+Rationale: | Resource locks can be used to prevent resources from being accidentally deleted or
+changed. Even with rele-based access control policies in place there is still a risk that
+people with the right level of access could delete a critical resource. Azure Resource
+Manager locks prevent users from accidentally deleting or modifying a critical
+resource, and can be applied to a subscription, a resource group, or a resource
+Azure Blueprints provide a way to define a repeatable set of Azure resources. Azure
+Blueprints enable development teams to rapidly provision and run new
+environments, with the knowledge that they're in line with the organization's
+compliance requirements. Teams can also provide Azure resources across several
+subscriptions simultaneously, meaning they can achieve shorter development times
+and quicker delivery.
+Azure Policy is designed to help enforce standards and assess compliance across
+your organization. Through its compliance dashboard, you can access an aggregated
+view to help evaluate the overall state of the environment. You can drill down to a
+per-resource, or per-policy level granularity. You can also use capabilities like bulk
+remediation for existing resources and automatic remediation for new resources, to
+resolve issues rapidly and effectively
+URL: | https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-
+azure/
+Question # 15 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+____ enables you to provision a group of matching and load-balanced virtual machines in Azure.
+A. Azure Logic Apps
+B. An availability set
+C. An Azure virtual machine scale set
+D. Azure Load Balancer
+| Answer: | Cc |
+| Objective: | 2.2 Describe Azure compute and networking services |Rationale: | Virtual machine scale enables you to provision a group of matching and load-
+balanced virtual machines in Azure.
+Imagine you are running a website that enables scientists to upload astronomy
+images that need to be processed. If you duplicated the VM, you would normally
+need to configure an additional service to route requests between multiple
+instances of the website. Virtual machine scale sets could do that work for you.
+URL: | https://docs.microsoft.com/en-us/learn/modules/azure-compute-
+| | fundamentals/azure-virtual-machines |
+Question # 16 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+________in Azure enables you to deploy Azure resources close to the users.
+A. Elasticity
+B. Scalability
+C. Geo-distribution
+D. High availability
+| Answer: | Cc |
+| Objective: | 1.2 Describe the benefits of using cloud services |
+Rationale: | Because of geo-distribution you can deploy apps and data to regional datacenters
+around the glebe, thereby ensuring that your customers always have the best
+performance in their region.
+| URL: | https://docs.microsoft.com/en-us/learn/modules/fundamental-azure- |
+concepts/benefits-of-cloud-computingQuestion # 17 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+_____ __issupported by ExpressRoute for connecting an on-premises network to Azure.
+A. APoint-to-Site VPN
+B. A point-to-point Ethernet connection
+C. ASite-to-Site VPN
+D. Azure Peering service
+| Answer: | B |
+| Objective: | 2.2 Describe Azure compute and networking services |
+Rationale: | A Point-to-point Ethernet connection is supported by ExpressRoute for connecting
+your on-premises network to Azure.
+The three models that ExpressRoute supports are:
+« CloudExchange colocation
+«  Point-to-point Ethernet connection
++ Any-to-any-connection
+URL: | https://docs.microsoft.com/en-us/learn/modules/azure-networking-
+| | fundamentals/express-route-fundamentals |
+Question # 18 (Multiple Choice)
+Which Azure feature enables you to organize multiple subscriptions in hierarchies for unified policies
+and compliance?
+A. Resource groups
+B. Management groups
+C. Azure Active Directory {Azure AD}
+D. Azure Container Instances
+| Answer: | B |
+| Objective: | 2.1 Describe the core architectural components of Azure |
+Rationale: | Management groups help you manage access, policy, and compliance for multiple
+| | subscriptions. All subscriptions in a management group automatically inherit the |
+conditions applied to the management group.
+| URL: | https://docs.microsoft.com/en-us/learn/modules/azure-architecture- |
+fundamentals/overviewQuestion # 19 {Sentence Completion)
+Select the answer that correctly completes the sentence.
+__ alerts you when service issues occur in an Azure environment, such as a regional Azure
+outage that affects all Azure customers.
+A. Azure Monitor
+B. Azure Advisor
+C. Azure Service Health
+D. Azure Application Insights
+| Answer: | Cc |
+| Objective: | 3.4 Describe menitering tools in Azure |
+Rationale: | Azure Service Health alerts you about service issues that happen in Azure itself, such
+as a regional Azure outage
+URL: | https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/2-
+identify-product-options
+Question # 20 (Matching)
+Match the services on the left to the correct descriptions on the right.
+Services Descriptions
+A. Authorization 1. Confirms the identity of a person who wants access
+B. Authentication 2. Grants the proper access to a legitimate user
+| Answer: | A2, B1 |
+| Objective: | 2.4 Describe Azure identity, access, and security |
+Rationale: Authentication To confirm the identity of a person who wants access.
+Authentication is the process of establishing the
+identity of a person or service that wants to access a
+resource.
+Authorization To grant the proper access to a legitimate user.
+Authorization is the process of establishing what level
+of access a legitimate user or service should have.
+URL: | https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-
+services/2-compare-authentication-authorization
